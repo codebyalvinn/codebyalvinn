@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 🛠️ Tech Arsenal
+#### Frontend Development
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+#### Tools & Platforms
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <!--
 **codebyalvinn/codebyalvinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
