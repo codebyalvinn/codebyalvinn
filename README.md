@@ -6,19 +6,25 @@
 
 ### My Tech Essential
 #### Frontend Development
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square">
+</div>
 
 #### Mechatronics & IoT
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=">
 <img src="https://img.shields.io/badge/-React%20native-000?&logo=React">
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
+</div>
 
 #### Tools & Platforms
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=">
+</div>
 
 <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
