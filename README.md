@@ -2,7 +2,7 @@
 
 ### 🛠️ Tech Arsenal
 #### Frontend Development
-<div style="display: flex;margin: 0 2rem;">  
+<div style="display: flex;margin: 0 100px;">  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS-000?logo=CSS" />
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
