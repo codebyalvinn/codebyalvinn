@@ -53,43 +53,6 @@ funFact: "Most bugs disappear after a coffee"
 };
 ```
 
-```text
-🌞 Morning                2370 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-🌆 Daytime                4640 commits        ████████░░░░░░░░░░░░░░░░░   33.35 % 
-🌃 Evening                4813 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
-🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Wednesday                2009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Friday                   1480 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Sunday                   3124 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               37 mins             ████████████████████████░   94.77 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-
-🔥 Editors: 
-Claude Code              31 mins             ████████████████████░░░░░   79.93 % 
-WebStorm                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-
-💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
