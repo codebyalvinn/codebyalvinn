@@ -56,19 +56,17 @@ funFact: "Most bugs disappear after a coffee"
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JavaScript               1 repo             █████░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               1 repo             █████░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      1 repo             █████░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo             █████░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo             █████░░░░░░░░░░░░░░░░░░░   20.00 %
 ```
 
 
 
 
- Last Updated on 24/07/2026 04:02:02 UTC
+
+
+Last Updated on 25/07/2026 00:53:48 UTC
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
