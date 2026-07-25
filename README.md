@@ -15,8 +15,10 @@
 #### Tools & Platforms
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2IzZDhxMG5uMTIzeGN1bG83aGxha2gybjRyaHlsaXlsc3hseGM2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gk4EQicN5wKkWXtZ4T/giphy.gif" width="50"> A little more about me...  
-
+### A little more about me...  
+```bash
+about.js
+```
 ```javascript
 const anmol = {
   name: "Anmol Pratap Singh",
