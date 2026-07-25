@@ -1,6 +1,5 @@
 <h2> Hi There! I'am Alvin</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4b2ZyMDM1cHQ4emJtYjFtdXQ5NjIwbzN0NGpzeDZid29wejR2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="230">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
