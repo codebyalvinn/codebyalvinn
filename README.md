@@ -1,4 +1,4 @@
-<h2> Hi There! I'am Alvin</h2>
+<h2>Hi There! I'am Alvin</h2>
 <img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY4b2ZyMDM1cHQ4emJtYjFtdXQ5NjIwbzN0NGpzeDZid29wejR2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="300">
 <p>I love coffee</p>
 
@@ -74,8 +74,6 @@ HTML                     1 repo             █████░░░░░░░
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   <img alt="Pacman Eat Contribution" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
-
-
 
 
 
